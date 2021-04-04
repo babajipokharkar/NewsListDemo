@@ -38,7 +38,6 @@ buildscript {
         junitVersion = '4.12'
         espressoVersion = '3.1.1'
         coreTestingVersion = '2.0.0'
-        jacocoVersion = '0.8.4'
         runnerVersion = '1.0.1'
         testExtJunit = '1.1.2'
         uiAutomatorVersion = '2.2.0'
