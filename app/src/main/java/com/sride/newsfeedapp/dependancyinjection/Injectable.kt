@@ -1,0 +1,3 @@
+package com.sride.newsfeedapp.dependancyinjection
+
+interface Injectable
