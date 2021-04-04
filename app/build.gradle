@@ -21,7 +21,6 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        buildConfigField 'String', 'API_DEVELOPER_TOKEN', "\"ff3dc3b391034d97b255d5ce84d54d65\""
     }
 
     buildTypes {
